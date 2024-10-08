@@ -14,76 +14,70 @@ type SiteConfig = {
   }[];
 };
 
-type TwitterConfig = {
-  url: string;
-  handleName: string;
-};
+// type TwitterConfig = {
+//   url: string;
+//   handleName: string;
+// };
 
-export const TWITTER_CONFIG: TwitterConfig = {
-  url: "https://twitter.com/thisisyhr",
-  handleName: "thisisyhr",
-};
+// export const TWITTER_CONFIG: TwitterConfig = {
+//   url: "",
+//   handleName: "",
+// };
 
 export const SITE_CONFIG: SiteConfig = {
-  name: "Hruthik Reddy",
-  headlineOne: "Mostly a Software Engineer.",
-  headlineTwo: "Sometimes a Nature Photographer.",
+  name: "Nipun Agarwal",
+  headlineOne: "Wanna be Software Engineer.",
+  headlineTwo: "Want to be an entrepreneur.",
   timeline: [
     {
-      name: "withYHR",
-      url: "https://withyhr.com/",
-      time: "2024-Present",
-      description: "Building web products as a dev studio",
-    },
-    {
-      name: "Frontend Hire",
-      url: "https://frontendhire.com/",
-      time: "2023-Present",
-      description: "Trying to solve frontend developer interviews and hiring",
-    },
-    {
       name: "Freelancer",
-      url: "https://withyhr.com/",
-      time: "2023",
-      description: "Worked with New Relic, HireHunch, and XRG",
+      url: "https://www.nipunagarwal.com/",
+      time: "2024",
+      description: "Working with Tads Education, Unimad",
     },
     {
-      name: "University of Leeds",
-      url: "https://www.leeds.ac.uk/",
-      time: "2022-2023",
-      description: "Got another computer science degree",
+      name: "Sabudh Foundation",
+      url: "https://sabudh.org/",
+      time: "2024",
+      description: "Final Semester Internship",
     },
     {
-      name: "HireHunch",
-      url: "https://hirehunch.com/",
-      time: "2021-2022",
-      description: "Led core UI development for multiple products",
-    },
-    {
-      name: "Piktorlabs",
-      url: "https://piktorlabs.com/",
-      time: "2021",
-      description: "Started the dev career here",
+      name: "YHR Technologies",
+      url: "https://play.google.com/store/apps/details?id=com.sdc.agrovet.store&pcampaignid=web_share",
+      time: "2024",
+      description: "Developed first mobile app ",
     },
     {
       name: "BML Munjal University",
       url: "https://www.bmu.edu.in/",
-      time: "2017-2021",
+      time: "2020-2024",
       description: "Got a computer science degree",
+    },
+    {
+      name: "ACIC-BMU Foundation",
+      url: "https://acic-bmu.in/",
+      time: "2022-2023",
+      description: "Another offer to make a website.",
+    },
+    {
+      name: "Global Enterprise",
+      url: "https://abyudhi.vercel.app/",
+      time: "2024",
+      description: "My first summer internship",
     },
   ],
   contact: [
     {
       name: "LinkedIn",
-      url: "https://www.linkedin.com/in/yarala-hruthik-reddy/",
+      url: "https://www.linkedin.com/in/nipun--agarwal/",
     },
     {
-      name: "Twitter",
-      url: "https://twitter.com/thisisyhr",
+      name: "Mail",
+      url: "mailto:nipunagarwal322@gmail.com",
     },
     {
       name: "GitHub",
-      url: "https://github.com/yaralahruthik",
+      url: "https://github.com/nipunagarwal4235",
     },
   ],
 };

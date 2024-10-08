@@ -1,10 +1,10 @@
 {
-  "name": "fh-portfolio-template",
+  "name": "portfolio",
   "type": "module",
   "version": "0.0.1",
   "author": {
-    "name": "Hruthik Reddy",
-    "url": "https://github.com/yaralahruthik"
+    "name": "Nipun Agarwal",
+    "url": "https://github.com/nipunagarwal4235"
   },
   "license": "MIT",
   "scripts": {
